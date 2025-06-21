@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Winning rules of the game ROCK PAPER SCISSORS are:
 Rock vs Paper -> Paper wins 
 Rock vs Scissors -> Rock wins 
@@ -30,3 +31,6 @@ Paper vs Paper
 Do you want to play again? (Y/N)
 n
 Thanks for playing!
+=======
+
+>>>>>>> a788716e9fe71a97d0c73bb2f2d6a3bd29df9ed3
